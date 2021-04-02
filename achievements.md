@@ -22,7 +22,7 @@ Here are some of my accomplishments.
 
 5. Attendance System using facial recognition.
    
-   An attendance system using facial recognition made with python. Presented and published at IEEE ICOSEC 2020. 
+   An attendance system using facial recognition made with python. Presented and published at IEEE ICOSEC 2020. https://ieeexplore.ieee.org/document/9215326
    
 6. Project OI
 

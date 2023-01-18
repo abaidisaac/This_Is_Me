@@ -1,7 +1,7 @@
 Here are some of my accomplishments.
 -
 
-1. Pentagon by Haven Industries.
+1. Pentagon
    
    Pentagon is a modular and cost effective housing solution targeted towards refugees as it provides ease of deployment and less maintenance. 
    [Read the article](https://m.khaleejtimes.com/news/education/dubai-students-cardboard-homes-to-solve-refugee-housing-crisis)
@@ -39,3 +39,9 @@ Here are some of my accomplishments.
    NFC based attendance app made in flutter. [Github Repo](github.com/abaidisaac/nfc_attendance)
    - Complete development of app from designing the UI/UX to development.
    - Firebase integration.
+
+8. MetaValley
+   
+    Play to earn and learn model game aimed to teach entrepreneurship in a hands-on fun experience. [Website](https://metavalley.quest/)
+    - Worked on GTM strategy and product development. 
+    - Headed development and technology strategy.
